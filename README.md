@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @reidmccrabb
-- 👀 I’m interested in blcokchain development
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on a crypto index fund token
 - 📫 How to reach me reidmccrabb@gmail.com
 
 <!---
